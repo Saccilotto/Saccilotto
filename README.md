@@ -1,22 +1,8 @@
-<!--
-**Saccilotto/Saccilotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello, I'm André Sacilotto Santos 👋
 
 ## Software Engineer & Technology Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating efficient and robust software solutions.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating efficient and robust software solutions and scalable infrastructure.
 
 ---
 
@@ -26,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
 - **Education:** Undergraduate student in Software Engineering at PUCRS
 - **Location:** Porto Alegre, Brazil
 - **Contact:**
-  - [GitHub](https://github.com/Saccilotto)
   - [LinkedIn](https://www.linkedin.com/in/saccilotto/)
   - [ORCID](https://orcid.org/0000-0002-1639-3238)
 
@@ -60,17 +45,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saccilotto&layout=compact&langs_count=8&theme=github_dark)](https://github.com/Saccilotto/github-readme-stats)
 
-<!-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) -->
-
----
-
-## Current Focus
-
-- Building scalable backend solutions  
-- Exploring cloud architecture patterns  
-- Enhancing system reliability and performance  
-- Contributing to open-source projects  
-
 ---
 
 ## Projects and Experiences
@@ -90,12 +64,9 @@ Some of the projects and initiatives I've participated in:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saccilotto&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saccilotto&theme=github_dark)
-
 ---
 
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saccilotto/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saccilotto)
 ![Profile Views](https://komarev.com/ghpvc/?username=Saccilotto&color=blue)
