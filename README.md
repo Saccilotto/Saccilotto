@@ -1,72 +1,83 @@
-# Hello, I'm André Sacilotto Santos 👋
+# Hey there, I'm André Sacilotto Santos
 
-## Software Engineer & Technology Enthusiast
+**Software Engineer | DevOps Enthusiast | Cloud Infrastructure Specialist**
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating efficient and robust software solutions and scalable infrastructure.
+I'm a Software Engineering student at PUCRS with a passion for building scalable, automated systems. I am currently working as an IT Intern at the Dell Innovation Center, where I architect performance testing pipelines and automate infrastructure provisioning. I thrive at the intersection of development and operations, turning complex infrastructure challenges into elegant, automated solutions.
 
 ---
 
 ## About Me
 
-- **Name:** André Sacilotto Santos (Saccilotto)
-- **Education:** Undergraduate student in Software Engineering at PUCRS
-- **Location:** Porto Alegre, Brazil
-- **Contact:**
-  - [LinkedIn](https://www.linkedin.com/in/saccilotto/)
-  - [ORCID](https://orcid.org/0000-0002-1639-3238)
+- Currently working on performance automation at **Dell Innovation Center**, engineering benchmarking pipelines for Oracle and MongoDB
+- Former **Software Architect & Infrastructure Lead** at AGES III, where I designed and implemented production-grade infrastructure using Docker Swarm and GitLab CI/CD
+- Research background in **parallel computing** and high-performance applications (published at PDP 2023)
+- Pre-approved for a **Master's in Computer Science** through the Integra-Pós G+1 program
+- Based in Porto Alegre, Brazil
 
 ---
 
-## Skills & Technologies
+## Technical Expertise
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![OCI](https://img.shields.io/badge/-OCI-0033BF?style=flat-square&logo=oracle&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-239120?style=flat-square&logo=c&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Technology Usage Stats
+### DevOps & CI/CD
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saccilotto&layout=compact&langs_count=8&theme=github_dark)](https://github.com/Saccilotto/github-readme-stats)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## Projects and Experiences
+## Highlighted Projects & Contributions
 
-Some of the projects and initiatives I've participated in:
+### Infrastructure as Code & Automation
+- Developed custom **Terraform providers** in Go for infrastructure provisioning
+- Built comprehensive **Ansible playbooks** for automated environment configuration
+- Designed **CI/CD pipelines** integrating code quality analysis, automated testing, and deployment
+- Implemented **Docker Swarm** orchestration with load balancing on AWS EC2
 
-- **AGES-III-CP-Planta-Infra:** Infrastructure project where I participated as Software Architect.
-- **runners_setup:** Files for deploying GitHub Runners on Google Cloud Platform using Terraform and Ansible.
-- **terraform-learning:** Project for deploying storage solutions via infrastructure-as-code.
-- **ppi_exploration:** Development and parallelization of the Mandelbrot set calculation using C++ and various libraries (C++Threads, oneTBB, Fastflow, among others).
-- **mpi-training:** Exercises and transformation of applications using MPI with OpenMPI.
-- **SiSop:** Materials and code from my Operating Systems classes at PUCRS.
+### Performance Engineering
+- Architected stress-testing pipelines using **Podman containers** for HammerDB and YCSB benchmarks
+- Configured **Oracle Enterprise Edition** instances replicating production environments
+- Developed monitoring systems with **Grafana and Prometheus**
+
+### Research & Academic Contributions
+- Co-authored research paper on parallel processing performance (PDP 2023 conference)
+- Developed C++ applications exploring parallel algorithms and optimization
+- Contributed to the **GrPPI parallel processing platform**
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saccilotto&show_icons=true&theme=github_dark)
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saccilotto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saccilotto&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## Connect With Me
+## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saccilotto/)
-![Profile Views](https://komarev.com/ghpvc/?username=Saccilotto&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saccilotto)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sacilotto.andre@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saccilotto)
+
+---
+
+**Open to collaborations on DevOps, Infrastructure as Code, and Cloud Architecture projects!**
