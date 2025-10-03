@@ -9,7 +9,7 @@ I'm a Software Engineering student at PUCRS with a passion for building scalable
 ## About Me
 
 - Currently working on performance automation at **Dell Innovation Center**, engineering benchmarking pipelines for Oracle and MongoDB
-- Former **Software Architect & Infrastructure Lead** at AGES III, where I designed and implemented production-grade infrastructure using Docker Swarm and GitLab CI/CD
+- Participated as a **Software Architect & Infrastructure Lead** at (Software Engineering Experimental Agency) AGES, where I designed and implemented production-grade infrastructure using Docker Swarm and GitLab CI/CD
 - Research background in **parallel computing** and high-performance applications (published at PDP 2023)
 - Pre-approved for a **Master's in Computer Science** through the Integra-Pós G+1 program
 - Based in Porto Alegre, Brazil
