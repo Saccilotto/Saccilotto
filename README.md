@@ -23,7 +23,7 @@ Porto Alegre, Brasil | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](
 
 **DevOps Engineer & Performance Automation** | Abril 2025 - Presente
 
-Responsavel por arquitetar e implementar solucoes de automacao para benchmarking de performance e monitoramento em clusters internos, generalizando soluções para diferentes ambientes e configurações.
+Responsável por arquitetar e implementar soluções de automação para benchmarking de performance e monitoramento em clusters internos, generalizando soluções para diferentes ambientes e configurações.
 
 **Principais Contribuicoes:**
 
@@ -39,7 +39,7 @@ Responsavel por arquitetar e implementar solucoes de automacao para benchmarking
 
 **Software Architect & Infrastructure Team Lead** | Agosto - Dezembro 2024
 
-Liderou arquitetura e infraestrutura do projeto CP-Planta, implementando DevOps practices e orquestracao de containers em producao.
+Liderou arquitetura e infraestrutura do projeto CP-Planta, implementando DevOps practices e orquestração de containers em produção.
 
 **Principais Contribuicoes:**
 
@@ -64,7 +64,7 @@ Liderou arquitetura e infraestrutura do projeto CP-Planta, implementando DevOps 
 
 **IT Infrastructure Intern** | Abril - Setembro 2024
 
-Programa intensivo de 6 meses focado em automacao de infraestrutura e cloud computing.
+Programa intensivo de 6 meses focado em automação de infraestrutura e cloud computing.
 
 **Principais Contribuicoes:**
 
@@ -77,7 +77,7 @@ Programa intensivo de 6 meses focado em automacao de infraestrutura e cloud comp
 
 **Scientific Research Scholar** | Novembro 2020 - Outubro 2022
 
-Pesquisa em programacao paralela e otimizacao de performance.
+Pesquisa em programação paralela e otimização de performance.
 
 **Principais Contribuicoes:**
 
@@ -92,9 +92,9 @@ Pesquisa em programacao paralela e otimizacao de performance.
 
 ### Pro-Mata Platform - Sistema de Monitoramento Ambiental
 
-**Arquiteto de Infraestrutura & DevOps Engineer** | 2024-2025
+**Arquiteto de Infraestrutura & DevOps Engineer** | Julho 2025 - Dezembro 2025
 
-Sistema completo de monitoramento com frontend React, backend NestJS e infraestrutura multi-cloud.
+Sistema completo de monitoramento com frontend React, backend NestJS, e infraestrutura multi-cloud.
 
 **Destaques Tecnicos:**
 
