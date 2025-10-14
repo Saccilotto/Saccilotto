@@ -90,9 +90,9 @@ Pesquisa em programação paralela e otimização de performance.
 
 ## Projetos em Destaque
 
-### Pro-Mata Platform - Sistema de Monitoramento Ambiental
+### AGES Pro-Mata Platform - Sistema de Hotelaria para Reserva Ambiental
 
-**Arquiteto de Infraestrutura & DevOps Engineer** | Julho 2025 - Dezembro 2025
+**Arquiteto de Infraestrutura & Gerente de Software** | Julho 2025 - Dezembro 2025
 
 Sistema completo de monitoramento com frontend React, backend NestJS, e infraestrutura multi-cloud.
 
@@ -110,7 +110,7 @@ Sistema completo de monitoramento com frontend React, backend NestJS, e infraest
 
 ### GrPPI Performance Analysis
 
-**Lead Researcher** | 2021-2022
+**Contributing Researcher** | 2021-2022
 
 Pesquisa sobre performance de plataforma emergente de processamento paralelo.
 
