@@ -21,7 +21,7 @@ Engenheiro de Software especializado em desenvolvimento Fullstack e automação 
 ## Stack Tecnológica Principal
 
 ### Frontend
-**React.js** | **TypeScript** | **Next.js** | **TailwindCSS** | **Redux**
+**React.js** | **TypeScript** | **Next.js** | **TailwindCSS** | 
 
 ### Backend
 **NestJS** | **Node.js** | **Express** | **TypeScript** | **RESTful APIs** | **Microservices**
