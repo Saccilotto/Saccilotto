@@ -17,110 +17,7 @@ Porto Alegre, Brasil | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](
 
 ---
 
-## Experiencia Profissional
-
-### Dell Innovation Center (PUCRS/Dell)
-
-**DevOps Engineer & Performance Automation** | Abril 2025 - Presente
-
-Responsável por arquitetar e implementar soluções de automação para benchmarking de performance e monitoramento em clusters internos, generalizando soluções para diferentes ambientes e configurações.
-
-**Principais Contribuicoes:**
-
-- Desenvolvi plataforma completa de automacao usando **Ansible + Python** para provisionar e gerenciar ambientes de teste, reduzindo tempo de setup de horas para minutos
-- Arquitetei pipeline de stress-testing com **Podman/Docker** encapsulando HammerDB e YCSB para testes isolados e reproduziveis
-- Configurei instancias **Oracle Enterprise Edition** replicando cenarios de producao complexos para analises de performance precisas
-- Implementei stack de observabilidade com **Prometheus/Grafana** para monitoramento em tempo real e analise correlacionada de metricas
-- Contribui em iniciativas de IaC com **Terraform + Kubernetes** para ambientes R&D totalmente versionados
-
-**Stack:** Python, Ansible, Terraform, Kubernetes, Docker/Podman, Oracle DB, MongoDB, Prometheus, Grafana, Shell Scripting
-
-### AGES PUCRS (Agencia Experimental de Engenharia de Software)
-
-**Software Architect & Infrastructure Team Lead** | Agosto - Dezembro 2024
-
-Liderou arquitetura e infraestrutura do projeto CP-Planta, implementando DevOps practices e orquestração de containers em produção.
-
-**Principais Contribuicoes:**
-
-- Arquitetei infraestrutura completa usando **Docker Swarm** para orquestracao e **GitLab CI/CD** para automacao de deploy
-- Desenvolvi pipelines CI/CD integrados com analise de qualidade (ESLint), testes automatizados e gestao de imagens Docker
-- Automatizei provisionamento com **Ansible**, incluindo replicas PostgreSQL para alta tolerancia a falhas
-- Configurei **load balancing** em instancias AWS EC2 garantindo alta disponibilidade e escalabilidade
-
-**Stack:** Docker Swarm, GitLab CI/CD, Ansible, PostgreSQL, AWS EC2
-
-**Backend Developer** | Marco - Julho 2022
-
-- Desenvolvi features backend para projeto UCON usando **Node.js + Express**, arquitetura MVC e API RESTful
-- Modelei banco de dados **MySQL** com Sequelize ORM
-
-**Frontend Developer** | Marco - Julho 2021  
-
-- Desenvolvi componentes mobile/web para projeto IDCare usando **Flutter/Dart**
-- Mantive qualidade de codigo atraves de Pull Request workflow no GitLab
-
-### PUCRS - Dell IT Infra Residency
-
-**IT Infrastructure Intern** | Abril - Setembro 2024
-
-Programa intensivo de 6 meses focado em automação de infraestrutura e cloud computing.
-
-**Principais Contribuicoes:**
-
-- Desenvolvi habilidades praticas em **Terraform, Ansible e Shell Scripting** para Infrastructure as Code
-- Criei sistema de monitoramento com **Grafana + Prometheus**
-- Contribui em projetos desafiadores incluindo desenvolvimento de **providers customizados em Go** para Terraform
-- Configurei multiplas VMs conectadas e explorei conceitos de cloud computing, seguranca cibernetica e DevOps
-
-### GMAP-PUCRS (Grupo de Modelagem de Aplicacoes Paralelas)
-
-**Scientific Research Scholar** | Novembro 2020 - Outubro 2022
-
-Pesquisa em programação paralela e otimização de performance.
-
-**Principais Contribuicoes:**
-
-- Desenvolvi aplicacao **C++** para paralelizar algoritmos do conjunto de Mandelbrot explorando bibliotecas Intel TBB e C++ Native Threads
-- Criei scripts de benchmark para execucao remota e geracao automatizada de resultados
-- Contribui para a plataforma **GrPPI** de processamento paralelo
-- **Co-autor** de paper publicado na **IEEE PDP 2023**: "A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores"
-
----
-
-## Projetos em Destaque
-
-### AGES Pro-Mata Platform - Sistema de Hotelaria para Reserva Ambiental
-
-**Arquiteto de Infraestrutura & Gerente de Software** | Julho 2025 - Dezembro 2025
-
-Sistema completo de monitoramento com frontend React, backend NestJS, e infraestrutura multi-cloud.
-
-**Destaques Tecnicos:**
-
-- Implementei **CI/CD completo** com GitHub Actions incluindo lint, testes, security scans e deploy automatizado
-- Arquitetei infraestrutura **Azure** com Cloudflare CDN/WAF, load balancing e deploy blue-green
-- Planejei migracao para **AWS** com Terraform para provisionamento de VPCs, subnets, security groups e Kubernetes
-- Desenvolvi sistema de **seguranca automatizado** com scans de vulnerabilidades, rotacao de secrets e compliance checks
-- Configurei monitoramento com **Prometheus/Grafana** e notificacoes automatizadas via Discord/Slack
-
-**Stack:** GitHub Actions, Terraform, Ansible, Docker, Kubernetes, Azure, AWS, PostgreSQL, React, NestJS, Prometheus, Grafana
-
-**[Ver Repositorio](https://github.com/Saccilotto/mata-infra)**
-
-### GrPPI Performance Analysis
-
-**Contributing Researcher** | 2021-2022
-
-Pesquisa sobre performance de plataforma emergente de processamento paralelo.
-
-**Destaques:**
-
-- Desenvolvi benchmarks em **C++** avaliando latencia e throughput em cenarios de streaming
-- Paper aceito e publicado na **31st Euromicro International Conference (PDP 2023)**
-- Publicacao IEEE com DOI: 10.1109/PDP59025.2023.00033
-
----
+Aqui está o stack tecnológico atualizado com as tecnologias que estavam faltando:
 
 ## Stack Tecnologico
 
@@ -147,6 +44,10 @@ Pesquisa sobre performance de plataforma emergente de processamento paralelo.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Backend & Databases
 
@@ -189,4 +90,4 @@ Santos, A. S., et al. (2023). **A Latency, Throughput, and Programmability Persp
 
 ---
 
-**Aberto para colaboracoes em DevOps, Cloud Architecture, Infrastructure as Code e projetos de alta complexidade!**
+**Aberto para colaboracoes em Fullstack, DevOps, Cloud Architecture, Infrastructure as Code e projetos de alta complexidade!**
