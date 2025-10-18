@@ -2,7 +2,7 @@
 
 ## DevOps Engineer & Software Architect | Cloud Infrastructure Specialist
 
-Engenheiro de Software com expertise em automação, infraestrutura como código e arquitetura de sistemas escaláveis. Especializado em construir pipelines CI/CD robustos e ambientes cloud de alta disponibilidade. Combinando desenvolvimento backend com DevOps para entregar soluções de impacto.
+Engenheiro de Software com expertise em automação, infraestrutura como código e arquitetura de sistemas escaláveis. Especializado em construir pipelines CI/CD robustos e ambientes cloud de alta disponibilidade. Combinando desenvolvimento Fullstack com DevOps para entregar soluções de impacto.
 
 Porto Alegre, Brasil | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](mailto:sacilotto.andre@gmail.com)
 
