@@ -1,4 +1,4 @@
-# Andre Sacilotto Santos
+# André Sacilotto Santos
 
 ## DevOps Engineer & Software Architect | Cloud Infrastructure Specialist
 
@@ -16,8 +16,6 @@ Porto Alegre, Brasil | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](
 - **Research**: Co-autor de paper publicado na IEEE sobre processamento paralelo (PDP 2023)
 
 ---
-
-Aqui está o stack tecnológico atualizado com as tecnologias que estavam faltando:
 
 ## Stack Tecnologico
 
