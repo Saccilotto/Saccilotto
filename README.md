@@ -1,74 +1,166 @@
-# André Sacilotto Santos
+# Andre Sacilotto Santos
 
-## DevOps Engineer & Software Architect | Cloud Infrastructure Specialist
+## Engenheiro de Software | DevOps & Cloud Architect
 
-Engenheiro de Software com expertise em automação, infraestrutura como código e arquitetura de sistemas escaláveis. Especializado em construir pipelines CI/CD robustos e ambientes cloud de alta disponibilidade. Combinando desenvolvimento Fullstack com DevOps para entregar soluções de impacto.
+Engenheiro de Software especializado em desenvolvimento Fullstack e automação de infraestrutura. Experiência sólida construindo aplicações escaláveis com React, NestJS/Node.js, e implementando soluções DevOps em cloud (AWS/Azure) com Docker, Kubernetes e CI/CD.
 
-Porto Alegre, Brasil | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](mailto:sacilotto.andre@gmail.com)
-
----
-
-## Destaques
-
-- **Performance Engineering**: Arquitetei pipelines de stress-testing containerizados para Oracle DB e MongoDB no Dell Innovation Center
-- **Infrastructure as Code**: Desenvolvi providers customizados em Go para Terraform e automação completa com Ansible
-- **Cloud Architecture**: Experiência prática em AWS e Azure, incluindo orquestração Docker Swarm e migração para Kubernetes
-- **Research**: Co-autor de paper publicado na IEEE sobre processamento paralelo (PDP 2023)
+**Porto Alegre, Brasil** | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](mailto:sacilotto.andre@gmail.com) | [Curriculo](link)
 
 ---
 
-## Stack Tecnologico
+## Destaques Profissionais
 
-### Cloud & Infrastructure
+- **Arquitetura Fullstack**: Projetei e liderei implementação de sistemas completos com React.js, NestJS, Node.js, TypeScript e PostgreSQL
+- **DevOps & Cloud**: Experiência prática com Docker Swarm, Kubernetes, Terraform, Ansible, GitLab CI/CD, AWS e Azure
+- **Liderança Técnica**: Tech Lead de Infraestrutura em projetos complexos, coordenando equipes e entregando soluções de alta disponibilidade
+- **Performance Engineering**: Desenvolvi pipelines de stress-testing containerizados para Oracle DB e MongoDB
+- **Pesquisa Acadêmica**: Co-autor de paper publicado na IEEE sobre processamento paralelo (PDP 2023)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+---
 
-### DevOps & Monitoring
-
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## Stack Tecnológica Principal
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**React.js** | **TypeScript** | **Next.js** | **TailwindCSS** | **Redux**
 
-### Backend & Databases
+### Backend
+**NestJS** | **Node.js** | **Express** | **TypeScript** | **RESTful APIs** | **Microservices**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+### Database
+**PostgreSQL** | **MongoDB** | **Oracle** | **Prisma ORM** | **Sequelize**
 
----
+### DevOps & Cloud
+**Docker** | **Kubernetes** | **GitLab CI/CD** | **GitHub Actions** | **Terraform** | **Ansible** | **AWS** | **Azure**
 
-## Educacao
+### Linguagens
+**TypeScript/JavaScript** | **Python** | **Go** | **Java** | **C++** | **SQL** | **Shell Script**
 
-**Bacharelado em Engenharia de Software** | PUCRS | 2020 - 2025 (Conclusao prevista)
-
-- Pre-aprovado para **Mestrado em Ciencia da Computacao** via programa Integra-Pos G+1
+### Ferramentas
+**Git** | **Prometheus** | **Grafana** | **Swagger/OpenAPI** | **Jest** | **Postman**
 
 ---
 
-## Publicacoes
+## Experiência Profissional
 
-Santos, A. S., et al. (2023). **A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores**. *31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)*. IEEE. DOI: 10.1109/PDP59025.2023.00033
+### Gerente de Projeto & Arquiteto de Infraestrutura | AGES IV - PUCRS
+**Julho 2025 - Presente**
+
+Sistema digital de hospitalidade Pro-Mata (Centro de Pesquisa e Conservação da Natureza PUCRS)
+
+**Stack**: React.js, NestJS, Node.js, TypeScript, PostgreSQL, Docker Swarm, Terraform, Ansible, GitLab CI/CD
+
+- Gerenciei equipe multifuncional no desenvolvimento de plataforma completa de reservas
+- Arquitetei infraestrutura DevOps com Docker Swarm, Terraform e Ansible para ambientes dev/prod
+- Implementei CI/CD automatizado com deploys responsivos a mudanças de tags DockerHub
+- Projetei estratégias de banco de dados com PostgreSQL incluindo replicação e backup automatizado
+- Configurei gestão de segredos com Ansible Vault para ambientes de desenvolvimento e CI/CD
+
+### Arquiteto de Software & Tech Lead Infra | AGES III - CP-Planta PUCRS
+**Agosto - Dezembro 2024**
+
+Plataforma web para gestão de linha de produção da Hortti
+
+**Stack**: React.js, NestJS, Node.js, TypeScript, PostgreSQL, Docker Swarm, GitLab CI/CD, Ansible
+
+- Arquitetei e implementei infraestrutura completa com Docker Swarm para orquestração de containers
+- Automatizei provisionamento de infraestrutura (IaC) com Ansible e PostgreSQL com réplicas
+- Configurei load balancing em AWS EC2 para alta disponibilidade no Docker Swarm
+- Implementei pipelines GitLab CI/CD garantindo ciclo de vida ágil e confiável
+
+### Engenheiro de Automação & Performance | Centro de Inovação PUCRS/Dell
+**Abril 2025 - Presente**
+
+Dell IT Infra Residency - Centro de Pesquisa em Engenharia de Software
+
+**Stack**: Python, Ansible, Terraform, Kubernetes, Docker, Oracle DB, MongoDB, Prometheus, Grafana
+
+- Arquitetei plataforma de automação com Ansible e Python para ambientes de teste distribuídos
+- Desenvolvi pipeline de stress testing containerizado com Docker/Podman para benchmarks
+- Implementei stack completa de observabilidade com Prometheus/Grafana
+- Contribuí em iniciativas de IaC com Terraform e Kubernetes
+
+### Estagiário de TI | Dell IT Infra Residency - PUCRS
+**Abril - Setembro 2024**
+
+- Desenvolvi providers customizados em Go para Terraform
+- Configurei sistemas de monitoramento com Grafana e Prometheus
+- Automatizei provisionamento com Terraform, Ansible e Shell scripting
+
+### Backend Developer | AGES II - PUCRS
+**Março - Julho 2022**
+
+Prova de conceito UCON
+
+**Stack**: Node.js, Express, JavaScript, Sequelize, MySQL, React.js
+
+- Desenvolvi web app com arquitetura MVC usando Node.js, Express e Sequelize
+- Implementei RESTful API para frontend React.js
+
+### Frontend Developer | AGES I - PUCRS
+**Março - Julho 2021**
+
+Prova de conceito IDCare
+
+**Stack**: Flutter, Dart, GoLang
+
+- Desenvolvi sistema mobile/web com arquitetura MVC usando Flutter/Dart
+- Integrei com backend em microservices GoLang
+
+### Bolsista de Iniciação Científica | GMAP-PUCRS
+**Novembro 2020 - Outubro 2022**
+
+- Pesquisa em programação paralela com C++, Intel TBB e C++ Native Threads
+- Publicação de artigo científico aceito na IEEE (PDP 2023)
+
+---
+
+## Educação
+
+**Bacharelado em Engenharia de Software** | PUCRS | 2020 - 2025 (Conclusão prevista)
+
+**Mestrado em Ciência da Computação** | PUCRS | 2024 - 2026 (Aprovado via programa Integra-Pós G+1)
+
+---
+
+## Publicações Científicas
+
+Santos, A. S., et al. (2023). **A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores**. *31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)*. IEEE. 
+
+DOI: [10.1109/PDP59025.2023.00033](https://doi.org/10.1109/PDP59025.2023.00033)
+
+---
+
+## Projetos em Destaque
+
+### Pro-Mata Digital Hospitality Platform
+Sistema completo de reservas para centro de pesquisa da PUCRS
+- **Tech**: React, NestJS, PostgreSQL, Docker Swarm, Terraform, Ansible
+- **Papel**: Gerente de Projeto & Arquiteto de Infraestrutura
+- [Repositório](link-se-publico)
+
+### CP-Planta - Greenhouse Management System
+Plataforma web para gestão de linhas dee produção de horti-fruti higienizados inteligente
+- **Tech**: React, NestJS, PostgreSQL, Docker Swarm, GitLab CI/CD
+- **Papel**: Arquiteto de Software & Tech Lead Infra
+- [Repositório](link-se-publico)
+
+### Terraform Custom Providers
+Providers customizados em Go para automação de infraestrutura
+- **Tech**: Go, Terraform, Infrastructure as Code
+- [Repositório](link-se-publico)
+
+---
+
+## Certificações
+
+- Multicloud DevOps & IA Challenge
+
+---
+
+## Idiomas
+
+- **Português**: Nativo
+- **Inglês**: Profissional Completo
 
 ---
 
@@ -82,7 +174,7 @@ Santos, A. S., et al. (2023). **A Latency, Throughput, and Programmability Persp
 
 ---
 
-## Conecte-se
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saccilotto)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sacilotto.andre@gmail.com)
@@ -90,4 +182,4 @@ Santos, A. S., et al. (2023). **A Latency, Throughput, and Programmability Persp
 
 ---
 
-**Aberto para colaboracoes em Fullstack, DevOps, Cloud Architecture, Infrastructure as Code!**
+**Status**: Aberto para oportunidades em Fullstack, DevOps, Cloud Architecture e Infrastructure as Code
