@@ -88,4 +88,4 @@ Santos, A. S., et al. (2023). **A Latency, Throughput, and Programmability Persp
 
 ---
 
-**Aberto para colaboracoes em Fullstack, DevOps, Cloud Architecture, Infrastructure as Code e projetos de alta complexidade!**
+**Aberto para colaboracoes em Fullstack, DevOps, Cloud Architecture, Infrastructure as Code!**
