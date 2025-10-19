@@ -136,18 +136,15 @@ DOI: [10.1109/PDP59025.2023.00033](https://doi.org/10.1109/PDP59025.2023.00033)
 Sistema completo de reservas para centro de pesquisa da PUCRS
 - **Tech**: React, NestJS, PostgreSQL, Docker Swarm, Terraform, Ansible
 - **Papel**: Gerente de Projeto & Arquiteto de Infraestrutura
-- [Repositório](link-se-publico)
 
 ### CP-Planta - Greenhouse Management System
 Plataforma web para gestão de linhas dee produção de horti-fruti higienizados inteligente
 - **Tech**: React, NestJS, PostgreSQL, Docker Swarm, GitLab CI/CD
 - **Papel**: Arquiteto de Software & Tech Lead Infra
-- [Repositório](link-se-publico)
 
 ### Terraform Custom Providers
 Providers customizados em Go para automação de infraestrutura
 - **Tech**: Go, Terraform, Infrastructure as Code
-- [Repositório](link-se-publico)
 
 ---
 
