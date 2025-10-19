@@ -137,7 +137,7 @@ Sistema completo de reservas para centro de pesquisa da PUCRS
 - **Tech**: React, NestJS, PostgreSQL, Docker Swarm, Terraform, Ansible
 - **Papel**: Gerente de Projeto & Arquiteto de Infraestrutura
 
-### CP-Planta - Greenhouse Management System
+### CP-Planta - Greenhouse Industrial Pipelines Management System
 Plataforma web para gestão de linhas dee produção de horti-fruti higienizados inteligente
 - **Tech**: React, NestJS, PostgreSQL, Docker Swarm, GitLab CI/CD
 - **Papel**: Arquiteto de Software & Tech Lead Infra
