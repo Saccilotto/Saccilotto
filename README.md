@@ -1,83 +1,113 @@
 # Andre Sacilotto Santos
 
-## Engenheiro de Software | DevOps & Cloud Architect
+## Backend Engineer | Performance & Database Specialist | Network Research
 
-Engenheiro de Software especializado em desenvolvimento Fullstack e automação de infraestrutura. Experiência sólida construindo aplicações escaláveis com React, NestJS/Node.js, e implementando soluções DevOps em cloud (AWS/Azure) com Docker, Kubernetes e CI/CD.
+Engenheiro de software especializado em desenvolvimento backend de alta performance, otimização de bancos de dados e pesquisa em protocolos de rede. Experiência construindo sistemas escaláveis com linguagens de programação (C++, Go), automação de infraestrutura e análise de desempenho em ambientes cloud.
 
-**Porto Alegre, Brasil** | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](mailto:sacilotto.andre@gmail.com) | [Curriculo](link)
+**Porto Alegre, Brasil** | [LinkedIn](https://linkedin.com/in/saccilotto) | [Email](mailto:sacilotto.andre@gmail.com)
 
 ---
 
 ## Destaques Profissionais
 
-- **Arquitetura Fullstack**: Projetei e liderei implementação de sistemas completos com React.js, NestJS, Node.js, TypeScript e PostgreSQL
-- **DevOps & Cloud**: Experiência prática com Docker Swarm, Kubernetes, Terraform, Ansible, GitLab CI/CD, AWS e Azure
-- **Liderança Técnica**: Tech Lead de Infraestrutura em projetos complexos, coordenando equipes e entregando soluções de alta disponibilidade
-- **Performance Engineering**: Desenvolvi pipelines de stress-testing containerizados para Oracle DB e MongoDB
-- **Pesquisa Acadêmica**: Co-autor de paper publicado na IEEE sobre processamento paralelo (PDP 2023)
+- **Backend de Alta Performance**: Desenvolvimento com NestJS/Node.js, TypeScript e experiência em C++ para aplicações críticas
+- **Bancos de Dados**: Expertise em PostgreSQL, MongoDB e Oracle - otimização, replicação, backup e benchmarking comparativo
+- **Automação & DevOps**: Experiência prática com Python, Ansible, Terraform, Docker, Kubernetes e CI/CD
+- **Performance Engineering**: Arquitetei pipelines de stress-testing com HammerDB e YCSB para análise comparativa de databases
+- **Pesquisa em Redes**: Desenvolvimento de protocolos de baixa latência para música ao vivo e cloud gaming
+- **Pesquisa Acadêmica**: Coautor de paper publicado na IEEE sobre processamento paralelo (PDP 2023)
+- **Infrastructure as Code**: Desenvolvi providers customizados em Go para Terraform
+
+---
+
+## Pesquisa Atual
+
+### Low-Latency Network Protocols
+Desenvolvimento e análise de protocolos de rede otimizados para:
+- Música ao vivo simultânea com múltiplos participantes remotos
+- Cloud gaming com requisitos de latência ultrabaixa
+- Performance comparativa entre TCP/UDP em cenários de tempo real
+
+### Comparative Database Performance Analysis
+Projeto de benchmarking sistemático comparando:
+- PostgreSQL vs MongoDB vs Oracle Database
+- Cenários de alta concorrência e throughput
+- Otimizações específicas por tecnologia
+- Estratégias de replicação e backup
 
 ---
 
 ## Stack Tecnológica Principal
 
-### Frontend
-**React.js** | **TypeScript** | **Next.js** | **TailwindCSS** | 
+### Linguagens de Performance
+**C++** | **Go** | **C** | **Python** | **TypeScript/JavaScript** | **SQL** | **Shell Script**
 
-### Backend
+### Backend & APIs
 **NestJS** | **Node.js** | **Express** | **TypeScript** | **RESTful APIs** | **Microservices**
 
-### Database
+### Bancos de Dados
 **PostgreSQL** | **MongoDB** | **Oracle** | **Prisma ORM** | **Sequelize**
 
-### DevOps & Cloud
-**Docker** | **Kubernetes** | **GitLab CI/CD** | **GitHub Actions** | **Terraform** | **Ansible** | **AWS** | **Azure**
+### DevOps & Automation
+**Ansible** | **Terraform** | **Docker** | **Kubernetes** | **GitLab CI/CD** | **GitHub Actions**
 
-### Linguagens
-**TypeScript/JavaScript** | **Python** | **Go** | **Java** | **C++** | **SQL** | **Shell Script**
+### Performance & Monitoring
+**HammerDB** | **YCSB** | **Prometheus** | **Grafana** | **Podman**
 
-### Ferramentas
-**Git** | **Prometheus** | **Grafana** | **Swagger/OpenAPI** | **Jest** | **Postman**
+### Processamento Paralelo
+**Intel TBB** | **C++ Native Threads** | **OpenMP**
+
+### Cloud Platforms
+**AWS (EC2, S3)** | **Azure**
+
+### Networking
+**TCP/IP** | **UDP** | **Low-latency protocols**
 
 ---
 
 ## Experiência Profissional
-
-### Gerente de Projeto & Arquiteto de Infraestrutura | AGES IV - PUCRS
-**Julho 2025 - Presente**
-
-Sistema digital de hospitalidade Pro-Mata (Centro de Pesquisa e Conservação da Natureza PUCRS)
-
-**Stack**: React.js, NestJS, Node.js, TypeScript, PostgreSQL, Docker Swarm, Terraform, Ansible, GitLab CI/CD
-
-- Gerenciei equipe multifuncional no desenvolvimento de plataforma completa de reservas
-- Arquitetei infraestrutura DevOps com Docker Swarm, Terraform e Ansible para ambientes dev/prod
-- Implementei CI/CD automatizado com deploys responsivos a mudanças de tags DockerHub
-- Projetei estratégias de banco de dados com PostgreSQL incluindo replicação e backup automatizado
-- Configurei gestão de segredos com Ansible Vault para ambientes de desenvolvimento e CI/CD
-
-### Arquiteto de Software & Tech Lead Infra | AGES III - CP-Planta PUCRS
-**Agosto - Dezembro 2024**
-
-Plataforma web para gestão de linha de produção da Hortti
-
-**Stack**: React.js, NestJS, Node.js, TypeScript, PostgreSQL, Docker Swarm, GitLab CI/CD, Ansible
-
-- Arquitetei e implementei infraestrutura completa com Docker Swarm para orquestração de containers
-- Automatizei provisionamento de infraestrutura (IaC) com Ansible e PostgreSQL com réplicas
-- Configurei load balancing em AWS EC2 para alta disponibilidade no Docker Swarm
-- Implementei pipelines GitLab CI/CD garantindo ciclo de vida ágil e confiável
 
 ### Engenheiro de Automação & Performance | Centro de Inovação PUCRS/Dell
 **Abril 2025 - Presente**
 
 Dell IT Infra Residency - Centro de Pesquisa em Engenharia de Software
 
-**Stack**: Python, Ansible, Terraform, Kubernetes, Docker, Oracle DB, MongoDB, Prometheus, Grafana
+**Stack**: Python, Go, Ansible, Terraform, Kubernetes, Docker, Oracle DB, MongoDB, PostgreSQL, Prometheus, Grafana
 
-- Arquitetei plataforma de automação com Ansible e Python para ambientes de teste distribuídos
-- Desenvolvi pipeline de stress testing containerizado com Docker/Podman para benchmarks
-- Implementei stack completa de observabilidade com Prometheus/Grafana
+- Arquitetei plataforma completa de automação com Python e Ansible para benchmarks de bancos de dados
+- Desenvolvi pipeline de stress-testing containerizado com HammerDB e YCSB para análise comparativa
+- Implementei stack de observabilidade com Prometheus/Grafana para monitoramento em tempo real
+- Configurei e otimizei instâncias Oracle Enterprise Edition com configurações avançadas
+- Desenvolvi providers customizados em Go para Terraform
 - Contribuí em iniciativas de IaC com Terraform e Kubernetes
+
+### Gerente de Projeto & Arquiteto de Infraestrutura | AGES IV - Pro-Mata PUCRS
+**Julho 2025 - Presente**
+
+Sistema digital de hospitalidade (Centro de Pesquisa e Conservação da Natureza PUCRS)
+
+**Stack**: NestJS, Node.js, TypeScript, PostgreSQL, Docker Swarm, Terraform, Ansible, GitLab CI/CD
+
+- Gerenciei equipe multifuncional no desenvolvimento de plataforma de reservas
+- Arquitetei backend escalável com NestJS/TypeScript seguindo SOLID e Clean Architecture
+- Projetei estratégias avançadas de PostgreSQL com replicação master-slave e backup automatizado
+- Implementei infraestrutura DevOps com Docker Swarm, Terraform e Ansible
+- Desenvolvi pipeline CI/CD automatizado no GitLab
+- Configurei gestão segura de segredos com Ansible Vault
+
+### Arquiteto de Software & Tech Lead Infra | AGES III - CP-Planta PUCRS
+**Agosto - Dezembro 2024**
+
+Plataforma web para gestão de linha de produção inteligente
+
+**Stack**: NestJS, Node.js, TypeScript, PostgreSQL, Docker Swarm, GitLab CI/CD, Ansible, AWS EC2
+
+- Arquitetei backend escalável com APIs RESTful de alta performance
+- Configurei PostgreSQL com replicação master-slave para alta disponibilidade
+- Implementei infraestrutura com Docker Swarm para orquestração de containers
+- Automatizei provisionamento (IaC) com Ansible
+- Configurei load balancing em AWS EC2 para distribuição de tráfego
+- Implementei pipelines GitLab CI/CD
 
 ### Estagiário de TI | Dell IT Infra Residency - PUCRS
 **Abril - Setembro 2024**
@@ -85,40 +115,33 @@ Dell IT Infra Residency - Centro de Pesquisa em Engenharia de Software
 - Desenvolvi providers customizados em Go para Terraform
 - Configurei sistemas de monitoramento com Grafana e Prometheus
 - Automatizei provisionamento com Terraform, Ansible e Shell scripting
-
-### Backend Developer | AGES II - PUCRS
-**Março - Julho 2022**
-
-Prova de conceito UCON
-
-**Stack**: Node.js, Express, JavaScript, Sequelize, MySQL, React.js
-
-- Desenvolvi web app com arquitetura MVC usando Node.js, Express e Sequelize
-- Implementei RESTful API para frontend React.js
-
-### Frontend Developer | AGES I - PUCRS
-**Março - Julho 2021**
-
-Prova de conceito IDCare
-
-**Stack**: Flutter, Dart, GoLang
-
-- Desenvolvi sistema mobile/web com arquitetura MVC usando Flutter/Dart
-- Integrei com backend em microservices GoLang
+- Aprofundei conhecimentos em cloud computing, DevOps e virtualização
 
 ### Bolsista de Iniciação Científica | GMAP-PUCRS
 **Novembro 2020 - Outubro 2022**
 
 - Pesquisa em programação paralela com C++, Intel TBB e C++ Native Threads
+- Desenvolvimento de aplicações paralelizadas para processamento de streams
+- Implementação de benchmarks para avaliação de performance
 - Publicação de artigo científico aceito na IEEE (PDP 2023)
+
+### Backend Developer | AGES II - UCON PUCRS
+**Março - Julho 2022**
+
+**Stack**: Node.js, Express, JavaScript, Sequelize, MySQL
+
+- Desenvolvi aplicação backend com arquitetura MVC
+- Implementei RESTful API completa
 
 ---
 
 ## Educação
 
-**Bacharelado em Engenharia de Software** | PUCRS | 2020 - 2025 (Conclusão prevista)
+**Mestrado em Ciência da Computação** | PUCRS | 2024 - 2026 (em andamento)  
+*Foco: Redes de Computadores e Sistemas Distribuídos*  
+Aprovado via programa Integra-Pós G+1
 
-**Mestrado em Ciência da Computação** | PUCRS | 2024 - 2026 (Aprovado via programa Integra-Pós G+1)
+**Bacharelado em Engenharia de Software** | PUCRS | 2020 - 2025 (conclusão prevista)
 
 ---
 
@@ -132,25 +155,37 @@ DOI: [10.1109/PDP59025.2023.00033](https://doi.org/10.1109/PDP59025.2023.00033)
 
 ## Projetos em Destaque
 
-### Pro-Mata Digital Hospitality Platform
-Sistema completo de reservas para centro de pesquisa da PUCRS
-- **Tech**: React, NestJS, PostgreSQL, Docker Swarm, Terraform, Ansible
-- **Papel**: Gerente de Projeto & Arquiteto de Infraestrutura
+### Database Performance Benchmarking Platform
+Plataforma automatizada para análise comparativa de bancos de dados
+- **Tech**: Python, Ansible, Docker, HammerDB, YCSB, Prometheus, Grafana
+- **Databases**: Oracle, MongoDB, PostgreSQL
+- **Papel**: Engenheiro de Automação & Performance
 
-### CP-Planta - Greenhouse Industrial Pipelines Management System
-Plataforma web para gestão de linhas dee produção de horti-fruti higienizados inteligente
-- **Tech**: React, NestJS, PostgreSQL, Docker Swarm, GitLab CI/CD
-- **Papel**: Arquiteto de Software & Tech Lead Infra
-
-### Terraform Custom Providers
+### Custom Terraform Providers
 Providers customizados em Go para automação de infraestrutura
 - **Tech**: Go, Terraform, Infrastructure as Code
+- **Papel**: Desenvolvedor
+
+### Pro-Mata Backend Infrastructure
+Sistema backend para plataforma de reservas
+- **Tech**: NestJS, TypeScript, PostgreSQL, Docker Swarm, Terraform, Ansible
+- **Papel**: Gerente de Projeto & Arquiteto de Infraestrutura
+
+### CP-Planta Backend System
+Backend para gestão de linha de produção inteligente
+- **Tech**: NestJS, TypeScript, PostgreSQL, Docker Swarm, GitLab CI/CD
+- **Papel**: Arquiteto de Software & Tech Lead Infra
+
+### GrPPI Stream Processing Research
+Pesquisa em processamento paralelo de streams usando C++
+- **Tech**: C++, Intel TBB, C++ Native Threads
+- **Papel**: Pesquisador (IEEE PDP 2023 Publication)
 
 ---
 
 ## Certificações
 
-- Multicloud DevOps & IA Challenge
+- Multicloud DevOps & IA Challenge - The Cloud Bootcamp (2025)
 
 ---
 
@@ -179,4 +214,4 @@ Providers customizados em Go para automação de infraestrutura
 
 ---
 
-**Status**: Aberto para oportunidades em Fullstack, DevOps, Cloud Architecture e Infrastructure as Code
+**Status**: Aberto para oportunidades em Backend Engineering, Performance Optimization, Database Engineering, Network Research, e Infrastructure Automation
