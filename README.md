@@ -216,29 +216,6 @@ Selected for Integra-Pós G+1 accelerated Master's program based on IEEE publica
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saccilotto&theme=vue-dark&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
-<details>
-<summary>View More GitHub Stats</summary>
-
-<div align="center">
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saccilotto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saccilotto&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-</div>
-
-</details>
-
----
-
 ## Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saccilotto)
