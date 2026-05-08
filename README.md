@@ -109,9 +109,9 @@ Deploy and manage **Minecraft servers on AWS/Azure** from a single CLI command. 
 </td>
 <td width="50%" valign="top">
 
-#### 🌀 [`ppi_exploration`](https://github.com/Saccilotto/ppi_exploration)
-Mandelbrot computation across **multiple parallel programming frameworks** — the seed of my IEEE PDP 2023 paper.
-`C++` `Intel TBB` `OpenMP` `MPI`
+#### 🛰️ [`intp`](https://github.com/ggrv-intp/intp)
+Hybrid **v2 + eBPF/CO-RE** interference profiler — `libintp` + CLI, Meson-built, with a plugin ABI for GPU, DB, observability, and scheduler extensions.
+`C` `eBPF` `Meson` `Plugin ABI`
 
 </td>
 </tr>
