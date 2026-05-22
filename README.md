@@ -70,7 +70,7 @@ Kernel-level **performance interference profiler** for containerized environment
 <tr>
 <td width="50%" valign="top">
 
-#### 🧪 [`intp-comparison`](https://github.com/ggrv-intp/intp-comparison)
+#### 🧪 [`across-intp`](https://github.com/ggrv-intp/across-intp)
 Linux interference profiler with **multi-variant comparison** of SystemTap, procfs, bpftrace, and eBPF/CO-RE instrumentation. The empirical core of my Master's.
 `Shell` `eBPF` `SystemTap` `C`
 
