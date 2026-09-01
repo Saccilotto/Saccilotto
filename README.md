@@ -56,7 +56,7 @@ Kernel-level **performance interference profiler** for containerized environment
 
 - Multi-variant comparison: SystemTap, procfs, bpftrace, eBPF/CO-RE
 - Reproducible noise injection (CPU, mem, net, I/O)
-- Integration with HDFS / Spark workloads on PUCRS LAD
+- Integration with HDFS / Spark workloads on dedicated servers
 - Targeting Linux 6.8+ stable surface
 
 </td>
@@ -179,7 +179,7 @@ Parallel **Mandelbrot benchmarks** across C++ Threads, oneTBB, FastFlow, and SPa
 ## `> publications`
 
 > 📄 **Sacilotto, A., Xavier, M. G., Becker, S., De Rose, C. A. F., Kao, O.** *"Cross-Application Interference Profiling in Consolidated Cloud Servers: Improving Portability, Overhead and Fidelity in IntP."*
-> 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (**SBAC-PAD 2026**), Madrid, Spain. Presenting Oct 14, 2026 · pre-print available.
+> 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (**SBAC-PAD 2026**), Madrid, Spain. Presenting Oct 14, 2026 · pre-print status: to be fully submitted.
 
 > 📄 **Santos, A. S., et al.** *"A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores."*
 > 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (**PDP**), IEEE, 2023.
