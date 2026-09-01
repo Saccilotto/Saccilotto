@@ -4,12 +4,13 @@
 
 ### `from kernel cycles to cloud regions`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Performance+%26+Infrastructure+Engineer+%40+Dell+Innovation+Center;MSc+Candidate+in+Parallel+%26+Distributed+Systems+%40+PUCRS;IEEE+PDP+2023+Published+Researcher;Profiling+the+kernel%2C+provisioning+the+cloud.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Performance+%26+Infrastructure+Engineer+%40+Dell+Innovation+Center;MSc+Candidate+in+Parallel+%26+Distributed+Systems+%40+PUCRS;IEEE+PDP+2023+Published+Researcher;SBAC-PAD+2026+%E2%80%94+Presenting+in+Madrid;Profiling+the+kernel%2C+provisioning+the+cloud.)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/saccilotto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sacilotto.andre@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://doi.org/10.1109/PDP59025.2023.00033"><img src="https://img.shields.io/badge/IEEE_PDP_2023-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/SBAC--PAD_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   <a href="https://orcid.org/0000-0002-1639-3238"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Porto_Alegre,_BR-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -71,7 +72,7 @@ Kernel-level **performance interference profiler** for containerized environment
 <td width="50%" valign="top">
 
 #### 🧪 [`across-intp`](https://github.com/ggrv-intp/across-intp)
-Linux interference profiler with **multi-variant comparison** of SystemTap, procfs, bpftrace, and eBPF/CO-RE instrumentation. The empirical core of my Master's.
+Empirical comparison of Linux interference profiling stacks — **SystemTap, procfs, bpftrace, eBPF/CO-RE** middlewares + ABIs. The research artifact of my Master's.
 `Shell` `eBPF` `SystemTap` `C`
 
 </td>
@@ -102,16 +103,16 @@ Deploy and manage **Minecraft servers on AWS/Azure** from a single CLI command. 
 <tr>
 <td width="50%" valign="top">
 
-#### 🚀 [`gitops`](https://github.com/Saccilotto/gitops)
-**EKS cluster** provisioned with Terraform; observability stack installed via **ArgoCD + Helm**. The "do it the boring, correct way" reference.
-`HCL` `ArgoCD` `Helm` `Kubernetes`
+#### 🎻 [`real-time-latency-net`](https://github.com/Saccilotto/real-time-latency-net)
+**C++ network protocol experiments for real-time audio** — the violinist in me never really left.
+`C++` `Networking` `Real-time` `Audio`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛰️ [`intp`](https://github.com/ggrv-intp/intp)
-Hybrid **v2 + eBPF/CO-RE** interference profiler — `libintp` + CLI, Meson-built, with a plugin ABI for GPU, DB, observability, and scheduler extensions.
-`C` `eBPF` `Meson` `Plugin ABI`
+#### 🧮 [`ppi_exploration`](https://github.com/Saccilotto/ppi_exploration)
+Parallel **Mandelbrot benchmarks** across C++ Threads, oneTBB, FastFlow, and SPar — exploring structured parallel programming patterns on multi-cores.
+`C++` `oneTBB` `FastFlow` `SPar`
 
 </td>
 </tr>
@@ -175,7 +176,10 @@ Hybrid **v2 + eBPF/CO-RE** interference profiler — `libintp` + CLI, Meson-buil
 
 ---
 
-## `> publication`
+## `> publications`
+
+> 📄 **Sacilotto, A., Xavier, M. G., Becker, S., De Rose, C. A. F., Kao, O.** *"Cross-Application Interference Profiling in Consolidated Cloud Servers: Improving Portability, Overhead and Fidelity in IntP."*
+> 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (**SBAC-PAD 2026**), Madrid, Spain. Presenting Oct 14, 2026 · pre-print available.
 
 > 📄 **Santos, A. S., et al.** *"A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores."*
 > 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (**PDP**), IEEE, 2023.
