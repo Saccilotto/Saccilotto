@@ -58,6 +58,7 @@ Kernel-level **performance interference profiler** for containerized environment
 - Reproducible noise injection (CPU, mem, net, I/O)
 - Integration with HDFS / Spark workloads on dedicated servers
 - Targeting Linux 6.8+ stable surface
+- Shipping as [`intp`](https://github.com/GGRV-PUCRS/intp): `0.10.0-beta1` on `ppa:norohim/intp-staging` (Ubuntu 22.04 / 24.04 / 26.04, amd64 + arm64)
 
 </td>
 </tr>
@@ -71,7 +72,7 @@ Kernel-level **performance interference profiler** for containerized environment
 <tr>
 <td width="50%" valign="top">
 
-#### 🧪 [`across-intp`](https://github.com/ggrv-intp/across-intp)
+#### 🧪 [`across-intp`](https://github.com/GGRV-PUCRS/across-intp)
 Empirical comparison of Linux interference profiling stacks — **SystemTap, procfs, bpftrace, eBPF/CO-RE** middlewares + ABIs. The research artifact of my Master's.
 `Shell` `eBPF` `SystemTap` `C`
 
@@ -94,9 +95,9 @@ Deploy and manage **Minecraft servers on AWS/Azure** from a single CLI command. 
 </td>
 <td width="50%" valign="top">
 
-#### 🌱 [`planta-infra`](https://github.com/Saccilotto/planta-infra)
-**Cloud-agnostic** IaC + CaC for the CP-Planta industrial management app — deploy the same stack to AWS or Azure with one switch.
-`Terraform` `Ansible` `Docker Swarm` `PostgreSQL HA`
+#### 📦 [`intp`](https://github.com/GGRV-PUCRS/intp)
+The **production heir of across-intp**: a kernel-module-free Linux interference profiler — 7 stable metrics (+8 experimental) per host, process or cgroup, from stable kernel ABIs and eBPF/CO-RE. On Ubuntu via PPA, on its way to Debian.
+`C` `eBPF/CO-RE` `Meson` `Debian packaging`
 
 </td>
 </tr>
