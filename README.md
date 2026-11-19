@@ -179,11 +179,17 @@ Parallel **Mandelbrot benchmarks** across C++ Threads, oneTBB, FastFlow, and SPa
 
 ## `> publications`
 
-> 📄 **Sacilotto, A., Xavier, M. G., Becker, S., De Rose, C. A. F., Kao, O.** *"Cross-Application Interference Profiling in Consolidated Cloud Servers: Improving Portability, Overhead and Fidelity in IntP."*
-> 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (**SBAC-PAD 2026**), Madrid, Spain. Presenting Oct 14, 2026 · pre-print status: to be fully submitted.
+> 📄 *"Understanding Workload Co-location in Virtualized Systems: Performance Isolation and NUMA Effects."* **Second author.**
+> 19th IEEE/ACM International Conference on Utility and Cloud Computing (**UCC 2026**), Florianópolis, Brazil, December 2026. Accepted, to appear.
 
-> 📄 **Santos, A. S., et al.** *"A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores."*
-> 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (**PDP**), IEEE, 2023.
+> 📄 **Sacilotto, A., Xavier, M. G., Becker, S., De Rose, C. A. F., Kao, O.** *"Cross-Application Interference Profiling in Consolidated Cloud Servers: Improving Portability, Overhead and Fidelity in IntP."*
+> 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (**SBAC-PAD 2026**), Madrid, Spain, 2026, pp. 242–252.
+
+> 📄 **Kniest, D., Marcon, A. Z., Borges, J. A. de C., Sacilotto, A., Xavier, M. G., Ferreto, T. C., De Rose, C. A. F.** *"Avaliação Comparativa de Desempenho entre Contêineres e Máquinas Virtuais Baseadas em KVM"* (A comparative performance evaluation of containers and KVM-based virtual machines).
+> XXVII Simpósio em Sistemas Computacionais de Alto Desempenho (**SSCAD 2026**), SBC, 2026, pp. 413–427.
+
+> 📄 **Garcia, A. M., Griebler, D., Schepke, C., Santos, A. S., García, J. D., Muñoz, J. F., Fernandes, L. G. L.** *"A Latency, Throughput, and Programmability Perspective of GrPPI for Streaming on Multi-cores."*
+> 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (**PDP 2023**), Naples, Italy, IEEE, 2023, pp. 164–168.
 > [`doi:10.1109/PDP59025.2023.00033`](https://doi.org/10.1109/PDP59025.2023.00033)
 
 ---
